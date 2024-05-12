@@ -1,5 +1,5 @@
 import os
-
+#Alunos:Marcel Gustavo e Marcelo Augusto.
 class Stack:
     def __init__(self):
         # Método construtor que inicializa a pilha com uma lista vazia
